@@ -3,7 +3,7 @@
 ![Weapon Detection](https://img.shields.io/badge/AI-Weapon%20Detection-red)
 ![YOLOv8](https://img.shields.io/badge/Model-YOLOv8-blue)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 A robust deep learning-based weapon detection system using YOLOv8 for real-time identification of weapons in images and videos. This project includes three specialized models for different weapon detection scenarios.
 
