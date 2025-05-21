@@ -113,13 +113,11 @@ The models were trained on a custom dataset of weapon images collected from vari
 
 ```
 Weapon_detection/
-├── All_weapon.pt          # Comprehensive weapon detection model
-├── gun.pt                 # Gun-specific detection model
-├── stick_knife_sword.pt   # Melee weapons detection model
 ├── finetune.py            # Script for fine-tuning models
 ├── infer.py               # Script for testing/inference of models
 ├── paths.txt              # Example command paths
 ├── requirements.txt       # Project dependencies
+├── Models/       # Add all models here after download
 └── Result/                # Folder where detection results are saved
 ```
 
@@ -134,11 +132,8 @@ The models achieve:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 - [Ultralytics](https://github.com/ultralytics/ultralytics) for the YOLOv8 implementation
 - [Roboflow](https://roboflow.com) for dataset resources
