@@ -44,7 +44,7 @@ The project includes three pre-trained models:
 2. **stick_knife_sword.pt** - Focused on detecting melee weapons
 3. **All_weapon.pt** - Comprehensive model for detecting various weapon types
 
-All models are available on [HuggingFace](https://huggingface.co/yourusername/weapon-detection-models).
+All models are available on [HuggingFace]([https://huggingface.co/yourusername/weapon-detection-models](https://huggingface.co/Shantanukadam/weapon_detection/tree/main)).
 
 ## 🎮 Usage
 
